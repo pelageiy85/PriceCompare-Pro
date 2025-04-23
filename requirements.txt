@@ -1,5 +1,4 @@
-requirements.txt
-├─ pandas
-├─ openpyxl
-├─ pyxlsb
-└─ pyinstaller
+pandas==2.2.2
+openpyxl==3.1.5
+pyxlsb==1.0.10
+pyinstaller==6.8.0
